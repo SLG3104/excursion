@@ -1,65 +1,53 @@
 * {
   background-color: black;
-  font-family: Verdana;
-  tex-align: center;
-
-}
-
-
-.headera, h1 {
-  font-weight: normal;
-  font-size: 50px;
-  color: white;
+  font-family: Verdana, sans-serif;
   text-align: center;
 
 }
 
-#link {
-  color: #7fffd4;
+.cta {
+  color: aquamarine;
   font-size: 16px;
-  text-align: center;
+
 }
 
 video {
   display: block;
   margin: 0 auto;
-}
 
 }
-.headerb, h1{
+
+h1 {
   font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
   font-size: 42px;
   color: white;
-  text-align: center;
+  font-weight: 300;
 
 }
 
-#paragraphb {
+p {
   color: gray;
   font-size: 21px;
-  text-align: center;
+
 }
 
 #landscape {
   size: 50px;
-  text-align: center;
+
 }
 
 #icon {
   size: 15px;
-  text-align: center;
+
 }
 
-.headerc, h1{
-  font-weight: 300px;
-  font-size: 42px;
-  color: white;
-  text-align: center;
-}
-
-
-
-#excursion {
+#footer {
   color: gray;
   text-align: right;
+  font-size: 21px;
 }
